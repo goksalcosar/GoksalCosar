@@ -22,9 +22,15 @@
 <code><img height="50" width="50" src="https://user-images.githubusercontent.com/98962680/174547357-7c420f6d-7e6c-4dfa-95b3-57750c961bf7.png"></code>
 <code><img height="50" width="50" src="https://user-images.githubusercontent.com/98962680/174548279-dcf85ca0-93c5-4d8a-b30e-7e9f8dd12f48.jpg"></code>
 
-📊 GitHub Stats
+<br />
+<br />
 
-<details>
- <summary>bulb: Github Stats</summary>
- <imc src="https://github-readme-stats.vercel.app/api?username=GoksalCosar">
+<details> 
+ <summary>:bulb: GitHub Stats </summary>
+ <img src="https://github-readme-stats.vercel.app/api?username=GoksalCosar&theme=radical">
+  </details>
+  
+  <details> 
+ <summary>:bulb: Most Used Languages </summary>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoksalCosar&layout=compact">
   </details>
