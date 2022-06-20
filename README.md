@@ -24,9 +24,7 @@
 
 📊 GitHub Stats
 
-<p align="center">
-  <p>
-    <a href="https://github.com/GoksalCosar" target="_blank">
-    </a>
-    </p>
-</p>
+<details>
+ <summary>bulb: Github Stats</summary>
+ <imc src="https://github-readme-stats.vercel.app/api?username=GoksalCosar">
+  </details>
