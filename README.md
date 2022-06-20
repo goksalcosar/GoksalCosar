@@ -15,13 +15,13 @@
 **🛠𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <br/>
-<code><img height="45" width="45" src="https://img.icons8.com/color/144/undefined/c-sharp-logo-2.png"></code>
-<code><img height="45" width="45" src="https://img.icons8.com/external-fauzidea-flat-fauzidea/64/undefined/external-sql-file-file-extension-fauzidea-flat-fauzidea.png"></code>
-<code><img height="45" width="50" src="https://img.icons8.com/nolan/64/xaml.png"></code>
-<code><img height="45" width="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/undefined/external-html-no-code-flaticons-flat-flat-icons.png"></code>
-<code><img height="45" width="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/undefined/external-css-no-code-flaticons-flat-flat-icons.png"></code>
-<code><img height="45" width="40" src="https://img.icons8.com/color/48/undefined/javascript--v1.png"></code>
-  
+<code><img height="50" width="50" src="https://user-images.githubusercontent.com/98962680/174548954-5a4ae319-2207-40cb-ae08-d2fff462df26.png"></code>
+<code><img height="50" width="50" src="https://img.icons8.com/external-fauzidea-flat-fauzidea/64/undefined/external-sql-file-file-extension-fauzidea-flat-fauzidea.png"></code>
+<code><img height="65" width="65" src="https://user-images.githubusercontent.com/98962680/174551308-23f45dd1-4e01-4925-ad98-1e2f7a65c661.png"></code>
+<code><img height="50" width="50" src="https://user-images.githubusercontent.com/98962680/174547164-8422c4bb-c6b1-4619-bfe5-3d5fb95f8842.png"></code>
+<code><img height="50" width="50" src="https://user-images.githubusercontent.com/98962680/174547357-7c420f6d-7e6c-4dfa-95b3-57750c961bf7.png"></code>
+<code><img height="50" width="50" src="https://user-images.githubusercontent.com/98962680/174548279-dcf85ca0-93c5-4d8a-b30e-7e9f8dd12f48.jpg"></code>
+
 📊 GitHub Stats
 
 <p align="center">
