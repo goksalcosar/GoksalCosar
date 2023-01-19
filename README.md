@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
       </a>  
   </div>
-  <img src="https://komarev.com/ghpvc/?username=seyitErdemir&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=GoksalCosar&style=flat-square&color=blue" alt=""/>
 </div> 
 
 <br>
