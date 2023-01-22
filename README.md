@@ -38,8 +38,9 @@
 
 <br>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=GoksalCosar&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" width="45%" alt="seyitErdemir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GoksalCosar&show_icons=true&locale=en" alt="GoksalCosar" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GoksalCosar&" alt="GoksalCosar" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoksalCosar&show_icons=true&theme=vision-friendly-dark&locale=en" alt="seyitErdemir" width="52%"/></p>
 
   
