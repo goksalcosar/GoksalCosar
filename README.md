@@ -39,9 +39,9 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GoksalCosar&show_icons=true&locale=en" alt="GoksalCosar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GoksalCosar&show_icons=true&locale=en&theme=tokyonight" alt="GoksalCosar" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GoksalCosar&" alt="GoksalCosar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GoksalCosar&theme=tokyonight" alt="GoksalCosar" /></p>
 
 
   
