@@ -17,8 +17,7 @@
 <br>
 <h2 align="center"> :seedling: I’m currently learning </h2> 
 <div align="center" >
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JAVASCRİPT" alt="JAVASCRİPT" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GOLang" alt="GOLang" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
